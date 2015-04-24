@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "Kudos": {
+      "applicationId": "DS8dBz5bBdghFpq31iQZNy2lk0CCivLQ2EormI6f",
+      "masterKey": "ZRVGoUmLXgr2BjrY992XMaCw4T64zkfrEOVpYo2p"
+    },
+    "_default": {
+      "link": "Kudos"
+    }
+  }
+}
